@@ -30,3 +30,6 @@
   flex-direction: row;
   margin: 0 auto;
 }
+.square--winning {
+  background-color: yellow;
+}
